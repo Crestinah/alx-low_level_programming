@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-/*
- * main function prints the size of various types based on
- *        the computer it is compiled and run on..
- *
- * Return 0.
+/**
+ * main - prints size of various types on the computer
+ * Description: prints the sizes using printf
+ * Return: 0 (success)
  */
 
 int main(void)
