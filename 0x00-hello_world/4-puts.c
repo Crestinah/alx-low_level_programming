@@ -1,11 +1,10 @@
 #include <stdio.h>
 
-/*
- *The main function prints - 'Programming is like building a multilingual puzzle'
- * 
- *Returns 0
- *
- */
+/**
+ * main - Entry point
+ * Description: prints "\"Programming is like building a multilingual puzzle"
+ * Return: 0
+ * */
 
 int main(void)
 {
